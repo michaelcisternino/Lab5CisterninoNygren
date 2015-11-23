@@ -1,0 +1,13 @@
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/enums/eGame.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/domain/RuleDomainModel.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/domain/GamePlayDomainModel.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/enums/eSuit.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/enums/package-info.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/enums/eRank.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/domain/PlayerDomainModel.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/enums/eCardNo.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/enums/eHandStrength.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/domain/CardDomainModel.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/domain/TableDomainModel.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/domain/DeckDomainModel.java
+/Users/michaelcisternino/git/BorgataLab5Fixed/BorgataDAL/src/main/java/domain/HandDomainModel.java
