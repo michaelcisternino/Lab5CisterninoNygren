@@ -436,8 +436,8 @@ public class PokerTableController {
 				BestPlayerHands.add(hBestHand);
 			}
 
-			Hand WinningHand = Hand.PickBestHand(BestPlayerHands);
-			Player WinningPlayer = (Player) hsPlayerHand.get(WinningHand);
+			final Hand WinningHand = Hand.PickBestHand(BestPlayerHands);
+			final Player WinningPlayer = (Player) hsPlayerHand.get(WinningHand);
 			showWinner(WinningPlayer);
 			System.out.println("Winning Player Position: " + WinningPlayer.getiPlayerPosition());
 			SetGameControls(eGameState.EndOfGame);
